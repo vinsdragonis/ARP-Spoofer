@@ -20,8 +20,12 @@
     sys module
     
 
-*This is supported only on UNIX environment*
+*This is supported only on **UNIX** environment, but can be targetted against **any** system irrespective of it's OS.*
 
 *To use this on any remote system, it is recommended to use a **Wireless adapter***
+
+**To allow the victim system to access the internet, use the command below before ruuning this tool:**
+
+    echo 1 > /proc/sys/net/ipv4/ip_forward
 
 - [x] Completed
