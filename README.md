@@ -2,7 +2,7 @@
 
 ## ⚠ Disclaimer!!
 
-### Use this tool at your own disretion. The developer *is not responsible* for any misuse of this tool.
+### Use this at your own disretion. The developer *is not responsible* for any misuse of this tool.
 
 
 **To use this:**
