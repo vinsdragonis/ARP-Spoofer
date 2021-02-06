@@ -21,11 +21,13 @@
     argparse module
     
 
-*This is supported only on **UNIX** environment, but can be targetted against **any** system irrespective of it's OS.*
+*This is supported only on **UNIX** environment, but can be targetted against **any** system irrespective of it's OS*
 
 **To allow the victim to access the internet, use the command below before ruuning this tool:**
 
     echo 1 > /proc/sys/net/ipv4/ip_forward
+
+*Using other tools, you can perform Man In The Middle Attacks*
 
 *To use this on any remote system, it is recommended to use a **Wireless adapter***
 
