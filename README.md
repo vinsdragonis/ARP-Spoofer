@@ -27,7 +27,7 @@
 
     echo 1 > /proc/sys/net/ipv4/ip_forward
 
-*Using this in conjunction with other tools, you can perform Man In The Middle Attacks*
+*Using this in conjunction with other tools, you can perform **Man In The Middle Attacks***
 
 *To use this on any remote system, it is recommended to use a **Wireless adapter***
 
