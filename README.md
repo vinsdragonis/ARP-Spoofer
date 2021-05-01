@@ -4,7 +4,7 @@ ARP spoofer is a tool that sends falsified ARP messages over a LAN.
 
 ## ⚠ Disclaimer!!
 
-### Use this at your own disretion. The developer *is not responsible* for any misuse of the tool.
+### Use this at your own discretion. The developer *is not responsible* for any misuse of the tool.
 
 
 **To use this:**
