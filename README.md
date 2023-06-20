@@ -1,10 +1,5 @@
 # ARP-Spoofer
 
-## ⚠ Disclaimer!!
-
-### Use this at your own discretion. The developer *is not responsible* for any misuse of the tool.
-
-
 **To use this:**
 
     1. Clone this repository.
